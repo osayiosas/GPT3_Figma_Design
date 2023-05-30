@@ -49,7 +49,7 @@
 
 
 .gpt3__navbar-sign button,
-.gpt3__navbar-menu_container button {
+.gpt3__navbar-menu__container button {
     padding: 0.5rem 1rem;
     color: #fff;
     font-family: var(--font-family);
@@ -74,7 +74,7 @@
     cursor: pointer;
 }
 
-.gpt3__navbar-menu_container{
+.gpt3__navbar-menu__container{
     display: flex;
     justify-content: flex-end;
     align-items: flex-end;

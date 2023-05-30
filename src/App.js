@@ -2,12 +2,12 @@ import {
   Footer,
   Blog,
   Possibity,
-  Feature,
+  Features,
   WhatGBT3,
   Header,
 } from "./container";
 
-import { CTA, Brand, Navbar } from "./components";
+import { CTA, Brand, Navbar} from "./components";
 
 import "./App.css";
 
@@ -21,7 +21,7 @@ function App() {
 
       <Brand />
       <WhatGBT3 />
-      <Feature />
+      <Features />
       <Possibity />
       <CTA />
       <Blog />
